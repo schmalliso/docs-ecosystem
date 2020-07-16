@@ -6,4 +6,4 @@ version = 4.0
 package-name-org = "docs-ecosystem"
 pgp-version = "{+version+}"
 
-toc_landing_pages = ["/python", "/motor", "/pymongo", "/php"]
+toc_landing_pages = ["python", "motor", "pymongo", "php"]
