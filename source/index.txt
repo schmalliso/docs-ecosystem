@@ -8,6 +8,10 @@ The MongoDB Ecosystem contains documentation for the drivers,
 frameworks, tools, and platform services that work with MongoDB. For
 the main MongoDB documentation, see the :manual:`MongoDB Manual </>`.
 
+.. sharedinclude:: /test/sample-item.rst
+
+.. include:: /includes/fact-authenticate-with-java-x509.rst
+
 MongoDB Drivers
 ---------------
 
