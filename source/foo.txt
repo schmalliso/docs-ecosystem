@@ -1,0 +1,11 @@
+
+=====
+Title
+=====
+
+
+.. sharedinclude:: /test/sample-item.rst
+
+.. include:: /includes/fact-authenticate-with-java-x509.rst
+
+Allison is a silly goose.
