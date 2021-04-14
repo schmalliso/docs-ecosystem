@@ -3,8 +3,14 @@
 Title
 =====
 
+SHARED INCLUDE
+~~~~~~~~~~~~~~
 
 .. sharedinclude:: /test/sample-item.rst
+
+
+REGULAR INCLUDE
+~~~~~~~~~~~~~~~
 
 .. include:: /includes/fact-authenticate-with-java-x509.rst
 
