@@ -8,10 +8,23 @@ SHARED INCLUDE
 
 .. sharedinclude:: /test/sample-item.rst
 
+   .. replacement:: name
+
+      Allison
+   
+   .. replacement:: block
+
+      .. code-block:: python
+
+         foo = "foo"
+         bar = "bar"
+         exit()
+
+
+Allison is a silly goose..
 
 REGULAR INCLUDE
 ~~~~~~~~~~~~~~~
 
 .. include:: /includes/fact-authenticate-with-java-x509.rst
 
-Allison is a silly goose.

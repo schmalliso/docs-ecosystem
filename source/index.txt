@@ -7,28 +7,3 @@ MongoDB Drivers and Ecosystem
 The MongoDB Ecosystem contains documentation for the drivers,
 frameworks, tools, and platform services that work with MongoDB. For
 the main MongoDB documentation, see the :manual:`MongoDB Manual </>`.
-
-.. sharedinclude:: /test/sample-item.rst
-
-.. include:: /includes/fact-authenticate-with-java-x509.rst
-
-MongoDB Drivers
----------------
-
-.. toctree::
-
-   C Driver </c>
-   C++ Driver </cxx>
-   C# and .NET Driver </csharp>
-   Go Driver </go>
-   Java Drivers </java-drivers>
-   Node.js Driver <https://docs.mongodb.com/drivers/node/current/>
-   PHP Driver </php>
-   Python Drivers </python>
-   Ruby Driver  <https://docs.mongodb.com/ruby-driver/current/>
-   Ruby Mongoid ODM  <https://docs.mongodb.com/mongoid/current/>
-   Scala Driver </scala>
-   Swift Driver </swift>
-   Rust Driver </rust>
-   About Compatibility Tables <about-compatibility>
-   Security </security>
