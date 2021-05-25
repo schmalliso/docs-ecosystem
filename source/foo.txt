@@ -6,6 +6,8 @@ Title
 SHARED INCLUDE
 ~~~~~~~~~~~~~~
 
+``|foo|`` |foo| is not defined
+
 .. sharedinclude:: /test/sample-item.rst
 
    .. replacement:: name
