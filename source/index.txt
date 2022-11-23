@@ -1,4 +1,4 @@
-:template: drivers-index
+:template: product-landing
 :hidefeedback: header
 :noprevnext:
 
@@ -12,9 +12,24 @@ Connect your application to your database with one of our official libraries.
 
 The following libraries are officially supported by MongoDB. They are actively maintained, support new MongoDB features, and receive bug fixes, performance enhancements, and security patches.
 
-.. drivers-index-tiles::
+.. card-group::
+   :columns: 2
+   :layout: default
+   :style: extra-compact
 
-Don’t see your desired language? Browse a list of :doc:`community supported libraries </community-supported-drivers>`.
+   .. card::
+      :cta: C
+      :url: /c/
+      :icon: /icons/csharp.svg
+      :icon-alt: C-language logo
+
+   .. card::
+      :cta: C# and .NET
+      :url: /csharp
+      :icon: /icons/csharp.svg
+      :icon-alt: C-sharp logo
+
+Don't see your desired language? Browse a list of :doc:`community supported libraries </community-supported-drivers>`.
 
 .. toctree::
 
