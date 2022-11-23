@@ -13,21 +13,81 @@ Connect your application to your database with one of our official libraries.
 The following libraries are officially supported by MongoDB. They are actively maintained, support new MongoDB features, and receive bug fixes, performance enhancements, and security patches.
 
 .. card-group::
-   :columns: 2
+   :columns: 3
    :layout: default
    :style: extra-compact
 
    .. card::
       :cta: C
-      :url: /c/
+      :url: /c
       :icon: /icons/csharp.svg
-      :icon-alt: C-language logo
+      :icon-alt: icon with letter C
+
+   .. card::
+      :cta: C++
+      :url: /cxx
+      :icon: /icons/cpp.svg
+      :icon-alt: icon with characters C, +, and +
 
    .. card::
       :cta: C# and .NET
       :url: /csharp
       :icon: /icons/csharp.svg
-      :icon-alt: C-sharp logo
+      :icon-alt: icon showing characters C and #
+
+   .. card::
+      :cta: Go
+      :url: https://www.mongodb.com/docs/drivers/go/current/
+      :icon: /icons/go.svg
+      :icon-alt: go programming language logo
+
+   .. card::
+      :cta: Java
+      :url: /java-drivers
+      :icon: /icons/java.svg
+      :icon-alt: java programming language logo
+
+   .. card::
+      :cta: Node.js
+      :url: https://www.mongodb.com/docs/drivers/node/current/
+      :icon: /icons/node.svg
+      :icon-alt: node.js logo
+
+   .. card::
+      :cta: PHP
+      :url: /php
+      :icon: /icons/php.svg
+      :icon-alt: php programming language logo
+
+   .. card::
+      :cta: Python
+      :url: /python
+      :icon: /icons/python.svg
+      :icon-alt: python programming language logo
+
+   .. card::
+      :cta: Ruby
+      :url: https://www.mongodb.com/docs/ruby-driver/current/
+      :icon: /icons/ruby.svg
+      :icon-alt: ruby programming language logo
+
+   .. card::
+      :cta: Rust
+      :url: /rust
+      :icon: /icons/rust.svg
+      :icon-alt: rust programming language logo
+
+   .. card::
+      :cta: Scala
+      :url: /scala
+      :icon: /icons/scala.svg
+      :icon-alt: scala programming language logo
+
+   .. card::
+      :cta: Swift
+      :url: /swift
+      :icon: /icons/swift.svg
+      :icon-alt: swift programming language logo
 
 Don't see your desired language? Browse a list of :doc:`community supported libraries </community-supported-drivers>`.
 
